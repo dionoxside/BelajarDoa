@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tantangan"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bantuan"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.kosanworks.belajardoa.QuizActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:orientation="vertical"
+        android:layout_marginLeft="52dp"
+        android:layout_marginStart="52dp"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="47dp">
+        <TextView
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/coklat"
+            android:text="@string/soal1"
+            android:layout_width="364dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/soal" />
+        <RadioGroup
+            android:id="@+id/jawaban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <RadioButton
+            android:text="@string/jawab1a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pilihA"
+            android:checked="true"/>
+        <RadioButton
+            android:text="@string/jawab1b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pilihB" />
+        <RadioButton
+            android:text="@string/jawab1c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pilihC" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/jawab"
+            android:text="Jawab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/score2"
+        android:text="0"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

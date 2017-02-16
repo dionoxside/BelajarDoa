@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Mari Berdoa</string>
+    <string name="bangun_tidur">
+        اَلْحَمْدُ ِللهِ الَّذِى أَحْيَانَا بَعْدَمَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ
+    </string>
+    <string name="bangun_tidur_latin">
+        alhamdulillahil ladzi ahyana ba’da ma amatana wailaihin nusyur
+    </string>
+    <string name="bangun_tidur_arti">
+        Segala puji bagi Allah yang telah menghidupkan kami kembali sesudah kami mati dan kepada-Nya kami akan kembali
+    </string>
+
+    <string name="sebelum_tidur">
+        بِسْمِكَ اللّهُمَّ اَحْيَا وَاَمُوْتُ
+    </string>
+
+    <string name="sebelum_tidur_latin">
+BISMIKAL LOOHUMMA AHYAA WA AMUUTU
+    </string>
+
+    <string name="sebelum_tidur_arti">
+Dengan nama-Mu ya Allah aku hidup dan dengan nama-Mu aku mati
+    </string>
+    <string name="sebelum_mandi">
+        اَللهُمَّ اغْفِرْلِىْ ذَنْبِىْ وَوَسّعْ لِىْ فِىْ دَارِىْ وَبَارِكْ لِىْ فِىْ رِزْقِىْ
+    </string>
+
+    <string name="sebelum_mandi_latin">
+        ALLOOHUMMAGHFIRLII DZAMBII WA WASSI’LII FII DAARII WA BAARIK LII FII RIZQII
+    </string>
+    <string name="sebelum_mandi_arti">
+        Ya Allah, ampunilah dosaku dan lapangkanlah rumah tanggaku serta berkahilah rezekiku
+    </string>
+    <string name="sesudah_mandi">
+        
+    </string>
+    <string name="sesudah_mandi_latin">
+
+    </string>
+    <string name="sesudah_mandi_arti">
+
+    </string>
+    <string name="berpakaian">
+        اَللّهُمَّ اِنِّيْ أَسْـأَلُكَ مِنْ خَيْرِهِ وَخَيْرِمَاهُوَلَهُ,وَأَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَاهُوَلَهُ.
+    </string>
+
+    <string name="berpakaian_latin">
+        Alloohumma innii as-aluka min khoirihi,wa khoiri maa huwa lahu wa a’udzubika min syarrihi wa syarri maa huwa lahu
+    </string>
+
+    <string name="berpakaian_arti">
+        Ya Allah,berilah aku kebaikan dengan pakaian ini, dan hindarkanlah aku dari kejahatan yang ditimbulkannya
+    </string>
+    <string name="bercermin">
+        اَلْحَمْدُ ِللهِ، اَللّهُمَّ كَمَا حَسَنْتَ خَلْقِى فَحَسِّنْ خُلُقِى
+    </string>
+    <string name="bercermin_latin">
+ALHAMDULILLAHI, ALLAHUMMA KAMAA HASANTA KHALQII FAHASSIN KHULUQII
+    </string>
+    <string name="bercermin_arti">
+Segala Puji Bagi Allah, Ya Allah, sebagaimana Engkau telah memperindah rupaku maka baguskanlah budi pekertiku
+    </string>
+    <string name="sebelum_makan">
+        الَّلهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا عَذَابَ النَّارِ
+    </string>
+    <string name="sebelum_makan_latin">
+        Allahumma baarik llanaa fiima razaqtanaa waqinaa adzaa ban-naar
+    </string>
+    <string name="sebelum_makan_arti">
+        Ya Allah, berkahkanlah untuk kami apa-apa yang telah engkau berikan kepada kami, dan peliharalah kami dari siksa api neraka
+    </string>
+    <string name="sesudah_makan">
+        اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ
+    </string>
+    <string name="sesudah_makan_latin">
+        ALHAMDU LILLAAHIL LADZII ATHAMANAA WA SAQOONAA WA JAALANAA MUSLIMIIN
+    </string>
+    <string name="sesudah_makan_arti">
+        Segala puji bagi Allah yang telah memberi makan dan minum kepadaku dan telah menjadikan aku orang-orang islam
+    </string>
+    <string name="keluar_rumah">
+        بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِاللهِ
+    </string>
+    <string name="keluar_rumah_latin">
+
+BISMILLAAHI TAWAKKALTU ALALLOOHI LAA HAWLAA WALAA QUWWATA ILLAA BILLAAHI
+    </string>
+    <string name="keluar_rumah_arti">
+Dengan nama Allah aku bertawakal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah
+    </string>
+    <string name="bepergian_arti">
+Dengan nama Allah, aku berserah diri kepada Allah, tiada daya dan upaya melainkan dengan pertolongan Allah
+    </string>
+    <string name="bepergian_latin">
+Bismillaahi tawakkaltu alallaahi laa haula wa laa quwwata illaa billaah
+    </string>
+    <string name="naik_kendaraan">
+        بِسْمِ اللهِ مَجْرَهَا وَمُرْسَهَآ اِنَّ رَبّىْ لَغَفُوْرٌرَّحِيْمٌ
+    </string>
+    <string name="naik_kendaraan_latin">
+        BISMILLAAHI MAJRAHAA WA MURSAAHAA INNA ROBBII LAGHOFUURUR ROHIIM
+    </string>
+    <string name="naik_kendaraan_arti">
+        Dengan menyebut nama Allah kami berkendaraan, sesungguhnya Allah Maha Pengampun Lagi Maha Penyayang
+    </string>
+    <string name="masuk_rumah">
+        اَللهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا وَعَلَى اللهِ رَبّنَا تَوَكَّلْنَا
+    </string>
+    <string name="masuk_rumah_latin">
+        ALLOOHUMMA INNII AS-ALUKA KHOIROL MAULIJI WA KHOIROL MAKHROJI BISMILLAAHI WA LAJNAA WA BISMILLAAHI KHOROJNAA WA ALALLOHI ROBBINAA TAWAKKALNAA
+    </string>
+    <string name="masuk_rumah_arti">
+        Ya Allah aku mohon kepadamu sebaik baik tempat masuk dan sebaik baik tempat keluar dengan nama Allah kami masuk dan dengan nama Allah kami keluar dan hanya kepada Allah kami berserah diri
+    </string>
+    <string name="kedua_orang_tua">
+رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَاكَمَارَبَّيَانِيْ صَغِيْرَا
+    </string>
+    <string name="kedua_orang_tua_latin">
+        Robbighfir lii wa li waalidayya warhamhumaa kamaa robbayaanii shoghiiroo
+    </string>
+    <string name="kedua_orang_tua_arti">
+        Ya Tuhanku! Ampunilah aku, ibu bapakku dan kasihilah mereka keduanya, sebagaimana mereka berdua telah mendidik aku waktu kecil
+    </string>
+    <string name="belajar">
+        رَبِّ زِدْنِي عِلْمًاوَارْزُقْنِيْ فَهْمًا
+    </string>
+    <string name="belajar_latin">
+        ROBBII ZIDNII ILMAA WARZUQNII FAHMAA
+    </string>
+    <string name="belajar_arti">
+        Ya Allah tambahkan lah ilmu pengetahuanku dan berikanlah aku kepahaman
+    </string>
+    <string name="bantuan">
+        1. Untuk belajar mengenai doa dapat memilih menu belajar doa
+        \n2. Untuk menguji kemampuan kamu dalam berda dapat memilih menu tantangan
+        \n3. Untuk melihat cara penggunakan dapat memilih menu panduan
+        \n4. Untuk melihat informasi pembuat aplikasi dapat memilih menu tentang
+        \n5. Untuk kembali ke menu sebelumnya tekan tombol kembali
+        \n6. Untuk keluar dari aplikasi dapat memilih menu keluar
+    </string>
+    <string name="soal1">A‌llahumma innii as-aluka min fadhlika, adalah doa ketika.. </string>
+    <string name="jawab1a">Mandi</string>
+    <string name="jawab1b">Bangun Tidur</string>
+    <string name="jawab1c">Makan</string>
+
+    <string name="soal2">Sebelum membaca doa, sebaiknya mengucapkan.. </string>
+    <string name="jawab2a">Alhamdulillah</string>
+    <string name="jawab2b">Bismillah</string>
+    <string name="jawab2c">Subhanallah</string>
+
+    <string name="soal3">Dengan nama-Mu ya Allah aku hidup dan aku mati adalah arti dari doa …</string>
+    <string name="jawab3a">Sebelum Tidur</string>
+    <string name="jawab3b">Bangun Tidur</string>
+    <string name="jawab3c">Makan</string>
+
+    <string name="soal4">Robbii Zidnii ‘Ilmaa, Warzuqnii Fahmaa adalah doa ketika … </string>
+    <string name="jawab4a">Sesudah Makan</string>
+    <string name="jawab4b">Sebelum mandi</string>
+    <string name="jawab4c">Sebelum Belajar</string>
+
+    <string name="soal5">Berikut ini adalah doa .... \n رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَاكَمَارَبَّيَانِيْ صَغِيْرَا
+    </string>
+    <string name="jawab5a">Kedua Orang Tua</string>
+    <string name="jawab5b">Diri sendiri</string>
+    <string name="jawab5c">Bangun Tidur</string>
+    <string name="keterangan">Dibuat Oleh :</string>
+    <string name="nama">Triana Ulfayanti</string>
+
+
+</resources>
