@@ -131,10 +131,10 @@ Bismillaahi tawakkaltu alallaahi laa haula wa laa quwwata illaa billaah
         Ya Allah tambahkan lah ilmu pengetahuanku dan berikanlah aku kepahaman
     </string>
     <string name="bantuan">
-        1. Untuk belajar mengenai doa dapat memilih menu belajar doa
-        \n2. Untuk menguji kemampuan kamu dalam berda dapat memilih menu tantangan
-        \n3. Untuk melihat cara penggunakan dapat memilih menu panduan
-        \n4. Untuk melihat informasi pembuat aplikasi dapat memilih menu tentang
+        1. Untuk belajar mengenai doa dapat memilih menu pilihan doa
+        \n2. Untuk menguji kemampuan kamu dalam berdoa dapat memilih menu tantangan
+        \n3. Untuk melihat cara penggunaan aplikasi dapat memilih menu panduan
+        \n4. Untuk melihat informasi tentang aplikasi dan pembuat aplikasi dapat memilih menu tentang
         \n5. Untuk kembali ke menu sebelumnya tekan tombol kembali
         \n6. Untuk keluar dari aplikasi dapat memilih menu keluar
     </string>
@@ -163,8 +163,11 @@ Bismillaahi tawakkaltu alallaahi laa haula wa laa quwwata illaa billaah
     <string name="jawab5a">Kedua Orang Tua</string>
     <string name="jawab5b">Diri sendiri</string>
     <string name="jawab5c">Bangun Tidur</string>
-    <string name="keterangan">Dibuat Oleh :</string>
+    <string name="keterangan">Aplikasi Mari Berdoa</string>
+    <string name="keterangan2">Aplikasi Mari Berdoa adalah sebuah aplikasi yang memiliki beberapa pilihan doa\n sehari - hari bagi kaum muslim dan tantangan yang berisikan latihan soal untuk\n menguji kemampuan pengguna serta menambah pengetahuan. InsyaAllah tujuan\n dari aplikasi ini adalah untuk mengingatkan kita semua atas manfaat doa.</string>
     <string name="nama">Triana Ulfayanti</string>
+    <string name="npm">58413978</string>
+    <string name="kampus">UNIVERSITAS GUNADARMA</string>
 
 
 </resources>
