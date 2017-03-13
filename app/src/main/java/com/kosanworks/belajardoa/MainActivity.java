@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
+                                stopService(new Intent(MainActivity.this,AudioService.class));
                                 android.os.Process.killProcess(android.os.Process.myPid());
                                 System.exit(1);
                                 stop();
@@ -118,9 +119,14 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
+        stopService(new Intent(this,AudioService.class));
         stop();
     }
-
+    @Override
+    protected  void onStart(){
+        super.onStart();
+        startService(new Intent(this,AudioService.class));
+    }
     @Override
     protected void onDestroy() {
         super.onDestroy();
